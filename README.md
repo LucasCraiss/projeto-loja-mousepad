@@ -34,7 +34,7 @@ projeto-loja-mousepad/
 
 ## 🌍 Link do Projeto no GitHub
 
-[Acesse aqui o repositório no GitHub](https://github.com/LucasCraiss/projeto-loja-mousepad)
+[Acesse aqui o repositório no GitHub] (https://projeto-loja-mousepad.netlify.app)
 
 ---
 
