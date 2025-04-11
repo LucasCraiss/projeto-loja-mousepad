@@ -1,6 +1,6 @@
 # CraiSlide Mousepads
 
-Este é um projeto de uma loja virtual de mousepads chamada **CraiSlide Mousepads**, desenvolvida por Lucas Crais. O objetivo foi criar um site atrativo, funcional e com boa experiência de usuário, utilizando **HTML**, **CSS** e **JavaScript**.
+Este é um projeto de uma loja virtual de mousepads chamada **CraiSlide Mousepads**, desenvolvida por Lucas Crais e Gabriel Oliveira. O objetivo foi criar um site atrativo, funcional e com boa experiência de usuário, utilizando **HTML**, **CSS** e **JavaScript**.
 
 ## 🚀 Funcionalidades
 
